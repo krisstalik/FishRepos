@@ -1,0 +1,11 @@
+C:\Users\LiksL\source\repos\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
+C:\Users\LiksL\source\repos\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
+C:\Users\LiksL\source\repos\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
+C:\Users\LiksL\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.AssemblyReference.cache
+C:\Users\LiksL\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
+C:\Users\LiksL\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resources.resources
+C:\Users\LiksL\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.cache
+C:\Users\LiksL\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.CoreCompileInputs.cache
+C:\Users\LiksL\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
+C:\Users\LiksL\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb
+C:\Users\LiksL\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe.config
