@@ -1,0 +1,10 @@
+C:\Users\LiksL\source\repos\WinBackgroundWorker\WinBackgroundWorker\bin\Debug\WinBackgroundWorker.exe.config
+C:\Users\LiksL\source\repos\WinBackgroundWorker\WinBackgroundWorker\bin\Debug\WinBackgroundWorker.exe
+C:\Users\LiksL\source\repos\WinBackgroundWorker\WinBackgroundWorker\bin\Debug\WinBackgroundWorker.pdb
+C:\Users\LiksL\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.csproj.AssemblyReference.cache
+C:\Users\LiksL\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.Form1.resources
+C:\Users\LiksL\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.Properties.Resources.resources
+C:\Users\LiksL\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.csproj.GenerateResource.cache
+C:\Users\LiksL\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\LiksL\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.exe
+C:\Users\LiksL\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.pdb

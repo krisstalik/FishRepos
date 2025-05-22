@@ -1,0 +1,10 @@
+C:\Users\LiksL\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.AssemblyReference.cache
+C:\Users\LiksL\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.Form1.resources
+C:\Users\LiksL\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.Properties.Resources.resources
+C:\Users\LiksL\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.GenerateResource.cache
+C:\Users\LiksL\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.CoreCompileInputs.cache
+C:\Users\LiksL\source\repos\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\WinAsynchDelegate.exe.config
+C:\Users\LiksL\source\repos\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\WinAsynchDelegate.exe
+C:\Users\LiksL\source\repos\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\WinAsynchDelegate.pdb
+C:\Users\LiksL\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.exe
+C:\Users\LiksL\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.pdb
