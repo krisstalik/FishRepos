@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\bin\Debug\net8.0-windows\Laba1_Mironov.exe
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\bin\Debug\net8.0-windows\Laba1_Mironov.deps.json
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\bin\Debug\net8.0-windows\Laba1_Mironov.runtimeconfig.json
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\bin\Debug\net8.0-windows\Laba1_Mironov.dll
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\bin\Debug\net8.0-windows\Laba1_Mironov.pdb
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\obj\Debug\net8.0-windows\Laba1_Mironov.Form1.resources
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\obj\Debug\net8.0-windows\Laba1_Mironov.Properties.Resources.resources
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\obj\Debug\net8.0-windows\Laba1_Mironov.csproj.GenerateResource.cache
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\obj\Debug\net8.0-windows\Laba1_Mironov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\obj\Debug\net8.0-windows\Laba1_Mironov.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\obj\Debug\net8.0-windows\Laba1_Mironov.AssemblyInfo.cs
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\obj\Debug\net8.0-windows\Laba1_Mironov.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\obj\Debug\net8.0-windows\Laba1_Mironov.dll
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\obj\Debug\net8.0-windows\refint\Laba1_Mironov.dll
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\obj\Debug\net8.0-windows\Laba1_Mironov.pdb
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\obj\Debug\net8.0-windows\Laba1_Mironov.genruntimeconfig.cache
+C:\Users\User\Documents\Новая папка\Laba1_Mironov\Laba1_Mironov\obj\Debug\net8.0-windows\ref\Laba1_Mironov.dll
