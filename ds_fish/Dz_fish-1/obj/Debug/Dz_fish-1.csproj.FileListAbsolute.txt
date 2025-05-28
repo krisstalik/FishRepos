@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Dz_fish-1\bin\Debug\Dz_fish-1.exe.config
+C:\Users\User\source\repos\Dz_fish-1\bin\Debug\Dz_fish-1.exe
+C:\Users\User\source\repos\Dz_fish-1\bin\Debug\Dz_fish-1.pdb
+C:\Users\User\source\repos\Dz_fish-1\obj\Debug\Dz_fish-1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dz_fish-1\obj\Debug\Dz_fish-1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dz_fish-1\obj\Debug\Dz_fish-1.exe
+C:\Users\User\source\repos\Dz_fish-1\obj\Debug\Dz_fish-1.pdb
