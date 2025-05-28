@@ -10,9 +10,9 @@ C# NETFramework v4.8
 1. Установите Visual Studio 2022 Community
 2. Откройте файл проекта .sln и запустите отладку
 ### Задания:
-<a href="https://github.com/krisstalik/FishRepos/tree/7d15a29298537b5b012981076bb62dd8ed8eb739/Lab1">Лабораторная работа №1. Введение в разработку форм</a><br>
-<a href="https://github.com/krisstalik/FishRepos/tree/242c97e1d782548767f5e11849a24cc2569267a3/Lab2">Лабораторная работа №2. Работа с элементами управления</a><br>
-<a href="https://github.com/krisstalik/FishRepos/tree/242c97e1d782548767f5e11849a24cc2569267a3/Lab3">Лабораторная работа №3. Создание элементов управления</a><br>
+<a href="https://github.com/krisstalik/FishRepos/tree/8e03802f31753048e5f42be768ae4516c70d8c4e/Laba-1">Лабораторная работа №1. Введение в разработку форм</a><br>
+<a href="https://github.com/krisstalik/FishRepos/tree/8e03802f31753048e5f42be768ae4516c70d8c4e/Laba-2">Лабораторная работа №2. Работа с элементами управления</a><br>
+<a href="https://github.com/krisstalik/FishRepos/tree/8e03802f31753048e5f42be768ae4516c70d8c4e/Laba-3">Лабораторная работа №3. Создание элементов управления</a><br>
 <a href="https://github.com/krisstalik/FishRepos/tree/242c97e1d782548767f5e11849a24cc2569267a3/Laba-4">Лабораторная работа №4. Использование окон диалога в формах</a><br>
 <a href="https://github.com/krisstalik/FishRepos/tree/242c97e1d782548767f5e11849a24cc2569267a3/Laba-5">Лабораторная работа №5. Взаимодействие управляемого и неуправляемого кода</a><br>
 <a href="https://github.com/krisstalik/FishRepos/tree/242c97e1d782548767f5e11849a24cc2569267a3/Laba-6">Лабораторная работа №6. Организация печати в формах windows</a><br>
